@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<AnalyzerReport build_root_dir="/home/builder/build" assessment_start_ts="1548701500.9665592" package_version="1.0" parser_fw="resultparser" package_name="pegasus4.7-py" uuid="fcd81735-a0ac-4fae-8b9b-bd62f93d1410" platform_name="ubuntu-16.04-64" tool_version="1.6.4" tool_name="PyLint" parser_fw_version="3.1.8" package_root_dir="pkg1">
+  <BugInstance id="0">
+    <Methods></Methods>
+    <BugLocations>
+      <Location id="1" primary="true">
+        <SourceFile>pkg1/pegasus-py-swamp/4.7/pegasus-statistics.py</SourceFile>
+        <StartLine>351</StartLine>
+        <EndLine>351</EndLine>
+      </Location>
+    </BugLocations>
+    <BugGroup>Error</BugGroup>
+    <BugCode>E0001(syntax-error)</BugCode>
+    <BugSeverity>Error</BugSeverity>
+    <BugMessage>Missing parentheses in call to 'print'</BugMessage>
+    <BugTrace>
+      <BuildId>1</BuildId>
+      <AssessmentReportFile>assessment_report1.txt</AssessmentReportFile>
+    </BugTrace>
+  </BugInstance>
+  <BugInstance id="0">
+    <Methods></Methods>
+    <BugLocations>
+      <Location id="1" primary="true">
+        <SourceFile>pkg1/pegasus-py-swamp/4.7/cp_py.py</SourceFile>
+        <StartLine>7</StartLine>
+        <EndLine>7</EndLine>
+      </Location>
+    </BugLocations>
+    <BugGroup>Warning</BugGroup>
+    <BugCode>W0311(bad-indentation)</BugCode>
+    <BugSeverity>Warning</BugSeverity>
+    <BugMessage>Bad indentation. Found 2 spaces, expected 4</BugMessage>
+    <BugTrace>
+      <BuildId>1</BuildId>
+      <AssessmentReportFile>assessment_report1.txt</AssessmentReportFile>
+    </BugTrace>
+  </BugInstance>
+  <BugInstance id="1">
+    <Methods></Methods>
+    <BugLocations>
+      <Location id="1" primary="true">
+        <SourceFile>pkg1/pegasus-py-swamp/4.7/cp_py.py</SourceFile>
+        <StartLine>8</StartLine>
+        <EndLine>8</EndLine>
+      </Location>
+    </BugLocations>
+    <BugGroup>Warning</BugGroup>
+    <BugCode>W0311(bad-indentation)</BugCode>
+    <BugSeverity>Warning</BugSeverity>
+    <BugMessage>Bad indentation. Found 4 spaces, expected 8</BugMessage>
+    <BugTrace>
+      <BuildId>1</BuildId>
+      <AssessmentReportFile>assessment_report1.txt</AssessmentReportFile>
+    </BugTrace>
+  </BugInstance>
+  <BugInstance id="2">
+    <Methods></Methods>
+    <BugLocations>
+      <Location id="1" primary="true">
+        <SourceFile>pkg1/pegasus-py-swamp/4.7/cp_py.py</SourceFile>
+        <StartLine>10</StartLine>
+        <EndLine>10</EndLine>
+      </Location>
+    </BugLocations>
+    <BugGroup>Warning</BugGroup>
+    <BugCode>W0311(bad-indentation)</BugCode>
+    <BugSeverity>Warning</BugSeverity>
+    <BugMessage>Bad indentation. Found 4 spaces, expected 8</BugMessage>
+    <BugTrace>
+      <BuildId>1</BuildId>
+      <AssessmentReportFile>assessment_report1.txt</AssessmentReportFile>
+    </BugTrace>
+  </BugInstance>
+  <BugInstance id="3">
+    <Methods></Methods>
+    <BugLocations>
+      <Location id="1" primary="true">
+        <SourceFile>pkg1/pegasus-py-swamp/4.7/cp_py.py</SourceFile>
+        <StartLine>11</StartLine>
+        <EndLine>11</EndLine>
+      </Location>
+    </BugLocations>
+    <BugGroup>Warning</BugGroup>
+    <BugCode>W0311(bad-indentation)</BugCode>
+    <BugSeverity>Warning</BugSeverity>
+    <BugMessage>Bad indentation. Found 6 spaces, expected 12</BugMessage>
+    <BugTrace>
+      <BuildId>1</BuildId>
+      <AssessmentReportFile>assessment_report1.txt</AssessmentReportFile>
+    </BugTrace>
+  </BugInstance>
+  <BugInstance id="4">
+    <Methods></Methods>
+    <BugLocations>
+      <Location id="1" primary="true">
+        <SourceFile>pkg1/pegasus-py-swamp/4.7/cp_py.py</SourceFile>
+        <StartLine>12</StartLine>
+        <EndLine>12</EndLine>
+      </Location>
+    </BugLocations>
+    <BugGroup>Warning</BugGroup>
+    <BugCode>W0311(bad-indentation)</BugCode>
+    <BugSeverity>Warning</BugSeverity>
+    <BugMessage>Bad indentation. Found 6 spaces, expected 12</BugMessage>
+    <BugTrace>
+      <BuildId>1</BuildId>
+      <AssessmentReportFile>assessment_report1.txt</AssessmentReportFile>
+    </BugTrace>
+  </BugInstance>
+  <BugInstance id="5">
+    <Methods></Methods>
+    <BugLocations>
+      <Location id="1" primary="true">
+        <SourceFile>pkg1/pegasus-py-swamp/4.7/pegasus-transfer.py</SourceFile>
+        <StartLine>748</StartLine>
+        <EndLine>748</EndLine>
+      </Location>
+    </BugLocations>
+    <BugGroup>Error</BugGroup>
+    <BugCode>E0001(syntax-error)</BugCode>
+    <BugSeverity>Error</BugSeverity>
+    <BugMessage>invalid syntax</BugMessage>
+    <BugTrace>
+      <BuildId>1</BuildId>
+      <AssessmentReportFile>assessment_report1.txt</AssessmentReportFile>
+    </BugTrace>
+  </BugInstance>
+  <BugInstance id="6">
+    <Methods></Methods>
+    <BugLocations>
+      <Location id="1" primary="true">
+        <SourceFile>pkg1/pegasus-py-swamp/4.7/pegasus-metadata.py</SourceFile>
+        <StartLine>84</StartLine>
+        <EndLine>84</EndLine>
+      </Location>
+    </BugLocations>
+    <BugGroup>Error</BugGroup>
+    <BugCode>E0001(syntax-error)</BugCode>
+    <BugSeverity>Error</BugSeverity>
+    <BugMessage>Missing parentheses in call to 'print'</BugMessage>
+    <BugTrace>
+      <BuildId>1</BuildId>
+      <AssessmentReportFile>assessment_report1.txt</AssessmentReportFile>
+    </BugTrace>
+  </BugInstance>
+  <BugInstance id="7">
+    <Methods></Methods>
+    <BugLocations>
+      <Location id="1" primary="true">
+        <SourceFile>pkg1/pegasus-py-swamp/4.7/pegasus-submitdir.py</SourceFile>
+        <StartLine>17</StartLine>
+        <EndLine>17</EndLine>
+      </Location>
+    </BugLocations>
+    <BugGroup>Error</BugGroup>
+    <BugCode>E0401(import-error)</BugCode>
+    <BugSeverity>Error</BugSeverity>
+    <BugMessage>Unable to import 'Pegasus.submitdir'</BugMessage>
+    <BugTrace>
+      <BuildId>1</BuildId>
+      <AssessmentReportFile>assessment_report1.txt</AssessmentReportFile>
+    </BugTrace>
+  </BugInstance>
+  <BugInstance id="8">
+    <Methods></Methods>
+    <BugLocations>
+      <Location id="1" primary="true">
+        <SourceFile>pkg1/pegasus-py-swamp/4.7/pegasus-s3.py</SourceFile>
+        <StartLine>14</StartLine>
+        <EndLine>14</EndLine>
+      </Location>
+    </BugLocations>
+    <BugGroup>Error</BugGroup>
+    <BugCode>E0401(import-error)</BugCode>
+    <BugSeverity>Error</BugSeverity>
+    <BugMessage>Unable to import 'Pegasus'</BugMessage>
+    <BugTrace>
+      <BuildId>1</BuildId>
+      <AssessmentReportFile>assessment_report1.txt</AssessmentReportFile>
+    </BugTrace>
+  </BugInstance>
+  <BugInstance id="9">
+    <Methods></Methods>
+    <BugLocations>
+      <Location id="1" primary="true">
+        <SourceFile>pkg1/pegasus-py-swamp/4.7/pegasus-em.py</SourceFile>
+        <StartLine>17</StartLine>
+        <EndLine>17</EndLine>
+      </Location>
+    </BugLocations>
+    <BugGroup>Error</BugGroup>
+    <BugCode>E0401(import-error)</BugCode>
+    <BugSeverity>Error</BugSeverity>
+    <BugMessage>Unable to import 'Pegasus.service.ensembles.commands'</BugMessage>
+    <BugTrace>
+      <BuildId>1</BuildId>
+      <AssessmentReportFile>assessment_report1.txt</AssessmentReportFile>
+    </BugTrace>
+  </BugInstance>
+  <BugInstance id="10">
+    <Methods></Methods>
+    <BugLocations>
+      <Location id="1" primary="true">
+        <SourceFile>pkg1/pegasus-py-swamp/4.7/pegasus-init.py</SourceFile>
+        <StartLine>9</StartLine>
+        <EndLine>9</EndLine>
+      </Location>
+    </BugLocations>
+    <BugGroup>Error</BugGroup>
+    <BugCode>E0001(syntax-error)</BugCode>
+    <BugSeverity>Error</BugSeverity>
+    <BugMessage>invalid syntax</BugMessage>
+    <BugTrace>
+      <BuildId>1</BuildId>
+      <AssessmentReportFile>assessment_report1.txt</AssessmentReportFile>
+    </BugTrace>
+  </BugInstance>
+  <BugInstance id="11">
+    <Methods></Methods>
+    <BugLocations>
+      <Location id="1" primary="true">
+        <SourceFile>pkg1/pegasus-py-swamp/4.7/pegasus-monitord.py</SourceFile>
+        <StartLine>47</StartLine>
+        <EndLine>47</EndLine>
+      </Location>
+    </BugLocations>
+    <BugGroup>Error</BugGroup>
+    <BugCode>E0001(syntax-error)</BugCode>
+    <BugSeverity>Error</BugSeverity>
+    <BugMessage>invalid syntax</BugMessage>
+    <BugTrace>
+      <BuildId>1</BuildId>
+      <AssessmentReportFile>assessment_report1.txt</AssessmentReportFile>
+    </BugTrace>
+  </BugInstance>
+  <BugInstance id="12">
+    <Methods></Methods>
+    <BugLocations>
+      <Location id="1" primary="true">
+        <SourceFile>pkg1/pegasus-py-swamp/4.7/pegasus-plots.py</SourceFile>
+        <StartLine>94</StartLine>
+        <EndLine>94</EndLine>
+      </Location>
+    </BugLocations>
+    <BugGroup>Error</BugGroup>
+    <BugCode>E0001(syntax-error)</BugCode>
+    <BugSeverity>Error</BugSeverity>
+    <BugMessage>inconsistent use of tabs and spaces in indentation</BugMessage>
+    <BugTrace>
+      <BuildId>1</BuildId>
+      <AssessmentReportFile>assessment_report1.txt</AssessmentReportFile>
+    </BugTrace>
+  </BugInstance>
+  <BugInstance id="13">
+    <Methods></Methods>
+    <BugLocations>
+      <Location id="1" primary="true">
+        <SourceFile>pkg1/pegasus-py-swamp/4.7/pegasus-exitcode.py</SourceFile>
+        <StartLine>35</StartLine>
+        <EndLine>35</EndLine>
+      </Location>
+    </BugLocations>
+    <BugGroup>Error</BugGroup>
+    <BugCode>E0401(import-error)</BugCode>
+    <BugSeverity>Error</BugSeverity>
+    <BugMessage>Unable to import 'Pegasus'</BugMessage>
+    <BugTrace>
+      <BuildId>1</BuildId>
+      <AssessmentReportFile>assessment_report1.txt</AssessmentReportFile>
+    </BugTrace>
+  </BugInstance>
+  <BugInstance id="14">
+    <Methods></Methods>
+    <BugLocations>
+      <Location id="1" primary="true">
+        <SourceFile>pkg1/pegasus-py-swamp/4.7/pegasus-analyzer.py</SourceFile>
+        <StartLine>338</StartLine>
+        <EndLine>338</EndLine>
+      </Location>
+    </BugLocations>
+    <BugGroup>Error</BugGroup>
+    <BugCode>E0001(syntax-error)</BugCode>
+    <BugSeverity>Error</BugSeverity>
+    <BugMessage>invalid token</BugMessage>
+    <BugTrace>
+      <BuildId>1</BuildId>
+      <AssessmentReportFile>assessment_report1.txt</AssessmentReportFile>
+    </BugTrace>
+  </BugInstance>
+  <BugInstance id="15">
+    <Methods></Methods>
+    <BugLocations>
+      <Location id="1" primary="true">
+        <SourceFile>pkg1/pegasus-py-swamp/4.7/pegasus-dagman.py</SourceFile>
+        <StartLine>61</StartLine>
+        <EndLine>61</EndLine>
+      </Location>
+    </BugLocations>
+    <BugGroup>Error</BugGroup>
+    <BugCode>E0001(syntax-error)</BugCode>
+    <BugSeverity>Error</BugSeverity>
+    <BugMessage>Missing parentheses in call to 'print'</BugMessage>
+    <BugTrace>
+      <BuildId>1</BuildId>
+      <AssessmentReportFile>assessment_report1.txt</AssessmentReportFile>
+    </BugTrace>
+  </BugInstance>
+  <BugInstance id="16">
+    <Methods></Methods>
+    <BugLocations>
+      <Location id="1" primary="true">
+        <SourceFile>pkg1/pegasus-py-swamp/4.7/pegasus-graphviz.py</SourceFile>
+        <StartLine>193</StartLine>
+        <EndLine>193</EndLine>
+      </Location>
+    </BugLocations>
+    <BugGroup>Error</BugGroup>
+    <BugCode>E0001(syntax-error)</BugCode>
+    <BugSeverity>Error</BugSeverity>
+    <BugMessage>invalid syntax</BugMessage>
+    <BugTrace>
+      <BuildId>1</BuildId>
+      <AssessmentReportFile>assessment_report1.txt</AssessmentReportFile>
+    </BugTrace>
+  </BugInstance>
+  <BugInstance id="17">
+    <Methods></Methods>
+    <BugLocations>
+      <Location id="1" primary="true">
+        <SourceFile>pkg1/pegasus-py-swamp/4.7/pegasus-service.py</SourceFile>
+        <StartLine>17</StartLine>
+        <EndLine>17</EndLine>
+      </Location>
+    </BugLocations>
+    <BugGroup>Error</BugGroup>
+    <BugCode>E0401(import-error)</BugCode>
+    <BugSeverity>Error</BugSeverity>
+    <BugMessage>Unable to import 'Pegasus.service.server'</BugMessage>
+    <BugTrace>
+      <BuildId>1</BuildId>
+      <AssessmentReportFile>assessment_report1.txt</AssessmentReportFile>
+    </BugTrace>
+  </BugInstance>
+  <BugInstance id="18">
+    <Methods></Methods>
+    <BugLocations>
+      <Location id="1" primary="true">
+        <SourceFile>pkg1/pegasus-py-swamp/4.7/pegasus-globus-online.py</SourceFile>
+        <StartLine>53</StartLine>
+        <EndLine>53</EndLine>
+      </Location>
+    </BugLocations>
+    <BugGroup>Error</BugGroup>
+    <BugCode>E0001(syntax-error)</BugCode>
+    <BugSeverity>Error</BugSeverity>
+    <BugMessage>invalid syntax</BugMessage>
+    <BugTrace>
+      <BuildId>1</BuildId>
+      <AssessmentReportFile>assessment_report1.txt</AssessmentReportFile>
+    </BugTrace>
+  </BugInstance>
+  <BugInstance id="19">
+    <Methods></Methods>
+    <BugLocations>
+      <Location id="1" primary="true">
+        <SourceFile>pkg1/pegasus-py-swamp/4.7/pegasus-db-admin.py</SourceFile>
+        <StartLine>35</StartLine>
+        <EndLine>35</EndLine>
+      </Location>
+    </BugLocations>
+    <BugGroup>Error</BugGroup>
+    <BugCode>E0401(import-error)</BugCode>
+    <BugSeverity>Error</BugSeverity>
+    <BugMessage>Unable to import 'Pegasus.db.admin'</BugMessage>
+    <BugTrace>
+      <BuildId>1</BuildId>
+      <AssessmentReportFile>assessment_report1.txt</AssessmentReportFile>
+    </BugTrace>
+  </BugInstance>
+  <BugSummary>
+    <BugCategory group="Error" code="E0001(syntax-error)" count="10" bytes="6018" />
+    <BugCategory group="Error" code="E0401(import-error)" count="6" bytes="3664" />
+    <BugCategory group="Warning" code="W0311(bad-indentation)" count="5" bytes="3073" />
+  </BugSummary>
+</AnalyzerReport>
